@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 16ccd00ccfec444b6b0e74774248928a
+timeCreated: 1488732955
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CATRigHub001
+    100004: CATRigLArm1
+    100006: CATRigLArm2
+    100008: CATRigLArmDigit11
+    100010: CATRigLArmDigit12
+    100012: CATRigLArmDigit21
+    100014: CATRigLArmDigit22
+    100016: CATRigLArmDigit31
+    100018: CATRigLArmDigit32
+    100020: CATRigLArmDigit41
+    100022: CATRigLArmDigit42
+    100024: CATRigLArmDigit51
+    100026: CATRigLArmDigit52
+    100028: CATRigLArmPalm
+    100030: CATRigLLeg1
+    100032: CATRigLLeg2
+    100034: CATRigLLegAnkle
+    100036: CATRigLLegDigit11
+    100038: CATRigLLegPlatform
+    100040: CATRigRArm1
+    100042: CATRigRArm2
+    100044: CATRigRArmDigit11
+    100046: CATRigRArmDigit12
+    100048: CATRigRArmDigit21
+    100050: CATRigRArmDigit22
+    100052: CATRigRArmDigit31
+    100054: CATRigRArmDigit32
+    100056: CATRigRArmDigit41
+    100058: CATRigRArmDigit42
+    100060: CATRigRArmDigit51
+    100062: CATRigRArmDigit52
+    100064: CATRigRArmPalm
+    100066: CATRigRLeg1
+    100068: CATRigRLeg2
+    100070: CATRigRLegAnkle
+    100072: CATRigRLegDigit11
+    100074: CATRigRLegPlatform
+    100076: Character001
+    100078: EYE_NORMAL
+    100080: EYE_NORMAL001
+    100082: PolySphere_2
+    100084: SMILE001
+    400000: //RootNode
+    400002: CATRigHub001
+    400004: CATRigLArm1
+    400006: CATRigLArm2
+    400008: CATRigLArmDigit11
+    400010: CATRigLArmDigit12
+    400012: CATRigLArmDigit21
+    400014: CATRigLArmDigit22
+    400016: CATRigLArmDigit31
+    400018: CATRigLArmDigit32
+    400020: CATRigLArmDigit41
+    400022: CATRigLArmDigit42
+    400024: CATRigLArmDigit51
+    400026: CATRigLArmDigit52
+    400028: CATRigLArmPalm
+    400030: CATRigLLeg1
+    400032: CATRigLLeg2
+    400034: CATRigLLegAnkle
+    400036: CATRigLLegDigit11
+    400038: CATRigLLegPlatform
+    400040: CATRigRArm1
+    400042: CATRigRArm2
+    400044: CATRigRArmDigit11
+    400046: CATRigRArmDigit12
+    400048: CATRigRArmDigit21
+    400050: CATRigRArmDigit22
+    400052: CATRigRArmDigit31
+    400054: CATRigRArmDigit32
+    400056: CATRigRArmDigit41
+    400058: CATRigRArmDigit42
+    400060: CATRigRArmDigit51
+    400062: CATRigRArmDigit52
+    400064: CATRigRArmPalm
+    400066: CATRigRLeg1
+    400068: CATRigRLeg2
+    400070: CATRigRLegAnkle
+    400072: CATRigRLegDigit11
+    400074: CATRigRLegPlatform
+    400076: Character001
+    400078: EYE_NORMAL
+    400080: EYE_NORMAL001
+    400082: PolySphere_2
+    400084: SMILE001
+    4300000: PolySphere_2
+    4300002: EYE_NORMAL001
+    4300004: EYE_NORMAL
+    4300006: SMILE001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: EYE_NORMAL
+    13700002: EYE_NORMAL001
+    13700004: PolySphere_2
+    13700006: SMILE001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit11
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit11/CATRigLArmDigit12
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit21
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit21/CATRigLArmDigit22
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit31
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit31/CATRigLArmDigit32
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit41
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit41/CATRigLArmDigit42
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit51
+        weight: 1
+      - path: CATRigHub001/CATRigLArm1/CATRigLArm2/CATRigLArmPalm/CATRigLArmDigit51/CATRigLArmDigit52
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigLLegDigit11
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit11
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit11/CATRigRArmDigit12
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit21
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit21/CATRigRArmDigit22
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit31
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit31/CATRigRArmDigit32
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit41
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit41/CATRigRArmDigit42
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit51
+        weight: 1
+      - path: CATRigHub001/CATRigRArm1/CATRigRArm2/CATRigRArmPalm/CATRigRArmDigit51/CATRigRArmDigit52
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigRLegDigit11
+        weight: 1
+      - path: CATRigHub001/EYE_NORMAL
+        weight: 1
+      - path: CATRigHub001/EYE_NORMAL001
+        weight: 1
+      - path: CATRigHub001/SMILE001
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: PolySphere_2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
